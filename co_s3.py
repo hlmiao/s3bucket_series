@@ -1,3 +1,13 @@
+######Delete s3 bucket files with multiple conditions######
+###Examples
+###{'Key': 'crawler.pdf'}
+###{'Key': 'crawler.txt'}
+###{'Key': 'test001/Report.pdf'}
+###{'Key': 'test001/test002/Report.pdf'}
+###{'Key': 'test001/test002/crawler.pdf'}
+###{'Key': 'test001/test002/crawler.txt'}
+
+
 import boto3
 import datetime
 from datetime import timedelta
