@@ -1,4 +1,4 @@
-######Delete s3 bucket files with multiple conditions######
+######Delete s3 bucket files with multiple conditions in Python 3.x ######
 ###Examples
 ###{'Key': 'crawler.pdf'}
 ###{'Key': 'crawler.txt'}
