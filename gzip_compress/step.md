@@ -7,7 +7,7 @@
 ## 4. 回到之前创建Lambda Function页面，点击新建，Lambda Function代码见同目录gzip_compress.py
 ## 5. 创建了两个桶，-bk为备份用
 ![image](https://github.com/hlmiao/s3bucket_series/blob/master/gzip_compress/pic/tz-004.png)
-## 6. 选择桶tizhong-compression，在属性中找到Event notifications，编辑并名字
+## 6. 选择桶tizhong-compression，在属性中找到Event notifications，编辑并命名
 ![image](https://github.com/hlmiao/s3bucket_series/blob/master/gzip_compress/pic/tz-007.png)
 ## 7. 编辑触发的事件类型
 ![image](https://github.com/hlmiao/s3bucket_series/blob/master/gzip_compress/pic/tz-008.png)
