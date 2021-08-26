@@ -17,6 +17,10 @@
 ![image](https://github.com/hlmiao/s3bucket_series/blob/master/gzip_compress/pic/tz-005.png)
 ## 10. 压缩后文件大小
 ![image](https://github.com/hlmiao/s3bucket_series/blob/master/gzip_compress/pic/tz-006.png)
+## 11. 监控任务面板，CloudWatch
+![image](https://github.com/hlmiao/s3bucket_series/blob/master/gzip_compress/pic/tz-011.png)
+## 12. 需要根据处理文件大小调整Lambda Function RAM大小
+![image](https://github.com/hlmiao/s3bucket_series/blob/master/gzip_compress/pic/tz-012.png)
 
 
 
