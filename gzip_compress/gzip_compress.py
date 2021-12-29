@@ -1,3 +1,6 @@
+####Background####
+####驻存在s3的json文件，不但占用了大量空间，而且下载耗时长；压缩json文件后，不但可以降低存储成本，而且提升了下载的效率####
+
 import json
 import pprint
 import boto3
