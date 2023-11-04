@@ -1,4 +1,4 @@
-## Deletinglatest version of multiple object
+### Deleting latest version of multiple object ###
 
 import boto3
  
